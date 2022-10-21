@@ -1,2 +1,2 @@
 # Patient-path-estimation
-This is the description.
+Patient-path-estimation folder contains folders: data, config, functions and scripts.
